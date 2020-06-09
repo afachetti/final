@@ -1,1 +1,1 @@
-Heroku URL: https://dashboard.heroku.com/apps/infinite-ridge-60924
+Heroku URL: https://infinite-ridge-60924.herokuapp.com/
